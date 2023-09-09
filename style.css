@@ -1,0 +1,23 @@
+body {
+    color: rgb(228, 142, 167);
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgb(4, 1, 77) 0%, rgba(227, 34, 119, 1) 81%);
+    margin-left: 350px;
+    width: 650px;
+}
+
+header {
+    text-align: center;
+}
+
+hr {
+    width: 650px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
